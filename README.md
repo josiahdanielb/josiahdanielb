@@ -2,7 +2,7 @@
 
 I am an Information Technology Student @ ASU, Class of '27
 
-ℹ️ - Publicly documenting my progress out of tutorial purgatory </br>
+ℹ️ - Publicly documenting my progress out of tutorial purgatory on my <a href="https://josiahdanielb.github.io/blog/">blog</a> </br>
 🧠 - Interested in Apple Native Development (iOS, iPadOS & Mac), UX/UI implementations, and full-Stack web application experiences
 
 <!--
