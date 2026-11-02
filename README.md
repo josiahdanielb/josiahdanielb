@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am an Information Technology Student @ ASU, Class of '27
+
+ℹ️ - Publicly documenting my progress out of tutorial purgatory
+🧠 - Interested in Apple Native Development (iOS, iPadOS & Mac), UX/UI implementations, and full-Stack web application experiences
+
 <!--
 **josiahdanielb/josiahdanielb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
